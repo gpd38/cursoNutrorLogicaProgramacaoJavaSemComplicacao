@@ -18,32 +18,34 @@ Neste curso iremos abordar conhecimento sobre programação, lógica de programa
 
 ### Aulas
 
-	* [Aula01: ]()
-	* [Aula02: ]()
-	* [Aula03: ]()
-	* [Aula04: ]()
-	* [Aula05: ]()
+	* Aula01: Configuracao de ambiente
+	* Aula02: Logica de programação - Tipos de dados
+	* Aula03: Logica de Programacao Sem Complicacao - Operacoes Aritmeticas
+	* Aula04: Condicionais e operadores logicos
+	* Aula05: Condicionais
 
 ### Desafio
+
+Desafio 1: https://www.interviewzen.com/apply/Q8tM3x
+
+Desafio 2: 
 
 ### Ranking
 
 - Aula 01
-<p align="center">
-	<img alt="1º , 2º , 3º" src="https://img.shields.io/github/repo-size/gpd38/cursoNutrorLogicaProgramacaoJavaSemComplicacao">
-</p>
+![1º Guilherme M, 2º Augusto, 3º Guilherme Souza](https://github.com/gpd38/cursoNutrorLogicaProgramacaoJavaSemComplicacao/blob/main/img/rankingAula01.png)
 
 - Aula 02
-![1º , 2º , 3º](https://github.com/gpd38/cursoNutrorLogicaProgramacaoJavaSemComplicacao/blob/main/img/rankingAula02.png)
+![1º Thais S, 2º Will, 3º Kellen](https://github.com/gpd38/cursoNutrorLogicaProgramacaoJavaSemComplicacao/blob/main/img/rankingAula02.png)
 
 - Aula 03
-![1º , 2º , 3º](https://github.com/gpd38/cursoNutrorLogicaProgramacaoJavaSemComplicacao/blob/main/img/rankingAula02.png)
+![1º Gustavo P Dias, 2º Augusto, 3º Jonas](https://github.com/gpd38/cursoNutrorLogicaProgramacaoJavaSemComplicacao/blob/main/img/rankingAula03.png)
 
 - Aula 04
-![1º , 2º , 3º](https://github.com/gpd38/cursoNutrorLogicaProgramacaoJavaSemComplicacao/blob/main/img/rankingAula02.png)
+![1º Araceli, 2º Mariama, 3º Augusto](https://github.com/gpd38/cursoNutrorLogicaProgramacaoJavaSemComplicacao/blob/main/img/rankingAula04.png)
 
 - Aula 05
-![1º , 2º , 3º](https://github.com/gpd38/cursoNutrorLogicaProgramacaoJavaSemComplicacao/blob/main/img/rankingAula02.png)
+![1º Marcel, 2º Aracelia, 3º Kellen](https://github.com/gpd38/cursoNutrorLogicaProgramacaoJavaSemComplicacao/blob/main/img/rankingAula05.png)
 
 ### Autor
 
