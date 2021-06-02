@@ -23,6 +23,7 @@ Neste curso iremos abordar conhecimento sobre programação, lógica de programa
 	* Aula03: Logica de Programacao Sem Complicacao - Operacoes Aritmeticas
 	* Aula04: Condicionais e operadores logicos
 	* Aula05: Condicionais
+	* Aula06: Loops
 
 ### Desafio
 
