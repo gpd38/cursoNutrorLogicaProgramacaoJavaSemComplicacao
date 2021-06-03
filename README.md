@@ -10,6 +10,7 @@ Neste curso iremos abordar conhecimento sobre programação, lógica de programa
 
 <p align="center">
 	<a href="#Aulas">Aulas</a> •
+	<a href="#Código">Código</a> •
 	<a href="#Desafio">Desafio</a> •
 	<a href="#Ranking">Ranking</a> •
 	<a href="#Autor">Autor</a> •
@@ -25,6 +26,15 @@ Neste curso iremos abordar conhecimento sobre programação, lógica de programa
 	* Aula05: Condicionais
 	* Aula06: Loops
 	* Aula07: While e Do While
+
+### Código
+
+	* [Aula02](https://github.com/gpd38/cursoNutrorLogicaProgramacaoJavaSemComplicacao/tree/main/material/aula02)
+	* [Aula03](https://github.com/gpd38/cursoNutrorLogicaProgramacaoJavaSemComplicacao/tree/main/material/aula03)
+	* [Aula04](https://github.com/gpd38/cursoNutrorLogicaProgramacaoJavaSemComplicacao/tree/main/material/aula04)
+	* [Aula05](https://github.com/gpd38/cursoNutrorLogicaProgramacaoJavaSemComplicacao/tree/main/material/aula05)
+	* [Aula06](https://github.com/gpd38/cursoNutrorLogicaProgramacaoJavaSemComplicacao/tree/main/material/aula06)
+	* [Aula07]()
 
 ### Desafio
 
