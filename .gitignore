@@ -23,3 +23,7 @@
 hs_err_pid*
 
 /oculto/
+
+# Default ignored files
+/shelf/
+/workspace.xml
