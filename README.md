@@ -28,13 +28,14 @@ Neste curso iremos abordar conhecimento sobre programação, lógica de programa
 	* Aula07: While e Do While
 
 ### Código
-
-	* [Aula02](https://github.com/gpd38/cursoNutrorLogicaProgramacaoJavaSemComplicacao/tree/main/material/aula02)
-	* [Aula03](https://github.com/gpd38/cursoNutrorLogicaProgramacaoJavaSemComplicacao/tree/main/material/aula03)
-	* [Aula04](https://github.com/gpd38/cursoNutrorLogicaProgramacaoJavaSemComplicacao/tree/main/material/aula04)
-	* [Aula05](https://github.com/gpd38/cursoNutrorLogicaProgramacaoJavaSemComplicacao/tree/main/material/aula05)
-	* [Aula06](https://github.com/gpd38/cursoNutrorLogicaProgramacaoJavaSemComplicacao/tree/main/material/aula06)
-	* [Aula07]()
+|Aula|Link de acesso|
+|----|--------------|
+|Aula02|[Logica de programação - Tipos de dados](https://github.com/gpd38/cursoNutrorLogicaProgramacaoJavaSemComplicacao/tree/main/codigo/projetoEclipse/src/main/java/aula02)|
+|Aula03|[Logica de Programacao Sem Complicacao - Operacoes Aritmeticas](https://github.com/gpd38/cursoNutrorLogicaProgramacaoJavaSemComplicacao/tree/main/codigo/projetoEclipse/src/main/java/aula03)|
+|Aula04|[Condicionais e operadores logicos](https://github.com/gpd38/cursoNutrorLogicaProgramacaoJavaSemComplicacao/tree/main/codigo/projetoEclipse/src/main/java/aula04)|
+|Aula05|[Condicionais](https://github.com/gpd38/cursoNutrorLogicaProgramacaoJavaSemComplicacao/tree/main/codigo/projetoEclipse/src/main/java/aula05)|
+|Aula06|[Loops](https://github.com/gpd38/cursoNutrorLogicaProgramacaoJavaSemComplicacao/tree/main/codigo/projetoEclipse/src/main/java/aula06)|
+|Aula07|[While e Do While](https://github.com/gpd38/cursoNutrorLogicaProgramacaoJavaSemComplicacao/tree/main/codigo/projetoEclipse/src/main/java/aula07)|
 
 ### Desafio
 
