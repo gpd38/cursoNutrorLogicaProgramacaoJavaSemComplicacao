@@ -24,29 +24,44 @@ Neste curso iremos abordar conhecimento sobre programação, lógica de programa
 	* Aula04: Condicionais e operadores logicos
 	* Aula05: Condicionais
 	* Aula06: Loops
+	* Aula07: While e Do While
 
 ### Desafio
 
-Desafio 1: https://www.interviewzen.com/apply/Q8tM3x
+Desafio 1 - Aula04: https://www.interviewzen.com/apply/Q8tM3x
 
-Desafio 2: 
+Desafio 2 - Aula05: https://www.interviewzen.com/apply/Q9jQ4N
 
 ### Ranking
 
 - Aula 01
+
 ![1º Guilherme M, 2º Augusto, 3º Guilherme Souza](https://github.com/gpd38/cursoNutrorLogicaProgramacaoJavaSemComplicacao/blob/main/img/rankingAula01.png)
 
 - Aula 02
+
 ![1º Thais S, 2º Will, 3º Kellen](https://github.com/gpd38/cursoNutrorLogicaProgramacaoJavaSemComplicacao/blob/main/img/rankingAula02.png)
 
 - Aula 03
+
 ![1º Gustavo P Dias, 2º Augusto, 3º Jonas](https://github.com/gpd38/cursoNutrorLogicaProgramacaoJavaSemComplicacao/blob/main/img/rankingAula03.png)
 
 - Aula 04
+
 ![1º Araceli, 2º Mariama, 3º Augusto](https://github.com/gpd38/cursoNutrorLogicaProgramacaoJavaSemComplicacao/blob/main/img/rankingAula04.png)
 
 - Aula 05
+
 ![1º Marcel, 2º Aracelia, 3º Kellen](https://github.com/gpd38/cursoNutrorLogicaProgramacaoJavaSemComplicacao/blob/main/img/rankingAula05.png)
+
+- Aula 06
+
+![1º Jardeson, 2º Kellen, 3º Jonas](https://github.com/gpd38/cursoNutrorLogicaProgramacaoJavaSemComplicacao/blob/main/img/rankingAula06.png)
+
+- Aula 07
+
+![1º Maurício, 2º Marcel, 3º Mariama](https://github.com/gpd38/cursoNutrorLogicaProgramacaoJavaSemComplicacao/blob/main/img/rankingAula07.png)
+
 
 ### Autor
 
@@ -54,14 +69,14 @@ Desafio 2:
 	<tr>
 		<td align="center">
 			<a href="https://www.linkedin.com/in/adamviniciusqa/">
-				<img style="border-radius: 50%;" src="https://github.com/gpd38/cursoNutrorLogicaProgramacaoJavaSemComplicacao/blob/main/img/adam.png" width="100px;" alt=""/>
+				<img style="border-radius: 50%;" src="https://github.com/gpd38/cursoNutrorLogicaProgramacaoJavaSemComplicacao/blob/main/img/adam.png" width="100px;" alt="Adam Vinicius Cezar Luchini"/>
 				<br /><b>Instrutor<br>Adam Vinicius Cezar Luchini</b>
 			</a>
 			<br />
 		</td>
 		<td align="center">
 			<a href="https://www.linkedin.com/in/gustavopereiradias">
-				<img style="border-radius: 50%;" src="https://github.com/gpd38/cursoNutrorLogicaProgramacaoJavaSemComplicacao/blob/main/img/gustavo.png" width="100px;" alt=""/>
+				<img style="border-radius: 50%;" src="https://github.com/gpd38/cursoNutrorLogicaProgramacaoJavaSemComplicacao/blob/main/img/gustavo.png" width="100px;" alt="Gustavo Pereira Dias"/>
 				<br /><b>Aluno<br>Gustavo Pereira Dias</b>
 			</a>
 			<br />
