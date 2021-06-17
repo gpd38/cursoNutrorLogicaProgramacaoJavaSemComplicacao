@@ -14,6 +14,7 @@ Neste curso iremos abordar conhecimento sobre programação, lógica de programa
 	<a href="#Desafio">Desafio</a> •
 	<a href="#Ranking">Ranking</a> •
 	<a href="#Autor">Autor</a> •
+	<a href="#Certificado">Certificado</a> •
 	<a href="#Licença">Licença</a>
 </p>
 
@@ -26,8 +27,10 @@ Neste curso iremos abordar conhecimento sobre programação, lógica de programa
 	* Aula05: Condicionais
 	* Aula06: Loops
 	* Aula07: While e Do While
+	* Aula08: Vetor e Matriz
 
 ### Código
+
 |Aula|Link de acesso|
 |----|--------------|
 |Aula02|[Logica de programação - Tipos de dados](https://github.com/gpd38/cursoNutrorLogicaProgramacaoJavaSemComplicacao/tree/main/codigo/projetoEclipse/src/main/java/aula02)|
@@ -36,6 +39,7 @@ Neste curso iremos abordar conhecimento sobre programação, lógica de programa
 |Aula05|[Condicionais](https://github.com/gpd38/cursoNutrorLogicaProgramacaoJavaSemComplicacao/tree/main/codigo/projetoEclipse/src/main/java/aula05)|
 |Aula06|[Loops](https://github.com/gpd38/cursoNutrorLogicaProgramacaoJavaSemComplicacao/tree/main/codigo/projetoEclipse/src/main/java/aula06)|
 |Aula07|[While e Do While](https://github.com/gpd38/cursoNutrorLogicaProgramacaoJavaSemComplicacao/tree/main/codigo/projetoEclipse/src/main/java/aula07)|
+|Aula08|[Vetor e Matriz](https://github.com/gpd38/cursoNutrorLogicaProgramacaoJavaSemComplicacao/tree/main/codigo/projetoEclipse/src/main/java/aula08)|
 
 ### Desafio
 
@@ -73,6 +77,9 @@ Desafio 2 - Aula05: https://www.interviewzen.com/apply/Q9jQ4N
 
 ![1º Maurício, 2º Marcel, 3º Mariama](https://github.com/gpd38/cursoNutrorLogicaProgramacaoJavaSemComplicacao/blob/main/img/rankingAula07.png)
 
+- Aula 08
+
+![1º Maurício, 2º Marcel, 3º Mariama](https://github.com/gpd38/cursoNutrorLogicaProgramacaoJavaSemComplicacao/blob/main/img/rankingAula08.png)
 
 ### Autor
 
@@ -95,6 +102,9 @@ Desafio 2 - Aula05: https://www.interviewzen.com/apply/Q9jQ4N
 	</tr>
 </table>
 
+### Certificado
+
+![Lógica de Programação Sem Complicação](https://github.com/gpd38/cursoNutrorLogicaProgramacaoJavaSemComplicacao/blob/main/img/certificadoconclusaocurso.png)
 
 ### Licença
 
