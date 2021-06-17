@@ -7,8 +7,10 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="projetoIntellij" />
-        <module name="LogicaDeProgramacaoSemComplicacao" />
       </profile>
     </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="LogicaDeProgramacaoSemComplicacao" target="7" />
+    </bytecodeTargetLevel>
   </component>
 </project>
