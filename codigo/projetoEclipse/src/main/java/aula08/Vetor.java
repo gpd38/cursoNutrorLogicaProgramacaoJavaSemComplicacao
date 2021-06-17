@@ -20,7 +20,7 @@ public class Vetor {
 			}
 			soma += valor;
 		}
-		media = soma / (float)vetor.length;
+		media = soma / (float) vetor.length;
 
 		System.out.println("O maior valor é " + maior);
 		System.out.println("A soma dos valores do vetor é " + soma);
