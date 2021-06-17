@@ -6,8 +6,8 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="LogicaDeProgramacaoSemComplicacao" />
         <module name="projetoIntellij" />
+        <module name="LogicaDeProgramacaoSemComplicacao" />
       </profile>
     </annotationProcessing>
   </component>
